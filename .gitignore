@@ -1,0 +1,11 @@
+archive/
+tmp/
+chapter_JSON.json
+chapter_list.json
+finished_chapters.json
+JSON_dump.json
+out_test_data.json
+raw_response.png
+scanlator_dict.json
+search_results.json
+test_buffer.png
